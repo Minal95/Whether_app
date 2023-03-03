@@ -1,0 +1,75 @@
+body , html{
+    height: 100%;
+    overflow: hidden;
+    /* margin-top: 600px; */
+    
+}  
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.bg-image{
+    background-image: url(17.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: blur(2px);
+}
+.h1 {
+    text-align: center;
+    background-color: purple;
+    color: #fff;
+    padding: 10px;
+    margin: 60px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+  
+    border: 10px solid rgb(143, 140, 140);
+    word-spacing: 5px;
+  }
+  .h2 {
+    border: 1px solid #fff;
+    padding-left: 50px;
+    padding-right: 50px;
+  
+    margin-left: 50px;
+    margin-right: 50px;
+    line-break: 5px;
+    word-spacing: 5px;
+  }
+  .p {
+    border: 1px solid #fff;
+    padding-left: 50px;
+    padding-right: 50px;
+  
+    margin-left: 50px;
+    margin-right: 50px;
+    line-break: 5px;
+    word-spacing: 5px;
+  }
+  .heading {
+    border: 1px solid #fff;
+    padding-left: 50px;
+    padding-right: 50px;
+  
+    margin-left: 50px;
+    margin-right: 50px;
+    line-break: 5px;
+    word-spacing: 5px;
+  }
+  .points {
+    border: 1px solid #fff;
+    padding-left: 50px;
+    padding-right: 50px;
+  
+    margin-left: 50px;
+    margin-right: 50px;
+    line-break: 5px;
+    word-spacing: 5px;
+  }
+  

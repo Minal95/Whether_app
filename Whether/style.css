@@ -1,0 +1,21 @@
+body{
+    background-image: url(16.jpg);
+    background-size: cover;
+    
+}
+.color1{
+    color: rgb(252, 246, 246);
+    /* background-color: rgb(182, 181, 181); */
+    /* border-radius: 10px; */
+}
+
+.cardBody1{
+    background-color: rgb(239, 239, 146);
+}
+.card-heading{
+    background-color: rgb(176, 49, 226);
+}
+.navbar1{
+    position: sticky;
+    top: 0;
+}

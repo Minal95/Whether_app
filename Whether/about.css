@@ -1,0 +1,76 @@
+body,
+html {
+  font-family: "Roboto", sans-serif;
+}
+.about{
+  position: sticky;
+  top: 0;
+}
+
+
+
+.h1 {
+  text-align: center;
+  background-color: rgb(186, 72, 186);
+  color: #fff;
+  padding: 10px;
+  
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+
+  border: 10px solid rgb(216, 211, 211);
+  word-spacing: 5px;
+  font-weight: 50px;
+}
+.h2 {
+  border: 1px solid #fff;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  line-break: 5px;
+  word-spacing: 5px;
+  font-weight: 50px;
+}
+.p {
+  border: 1px solid #fff;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  line-break: 5px;
+  word-spacing: 5px;
+  font-weight: 50px;
+}
+.heading {
+  border: 1px solid #fff;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  line-break: 5px;
+  word-spacing: 5px;
+  font-weight: 50px;
+}
+.points {
+  border: 1px solid #fff;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  line-break: 5px;
+ 
+ 
+  word-spacing: 5px;
+  font-weight: 50px;
+}
+.text{
+  margin: 50px;
+}
+
